@@ -1,0 +1,9 @@
+{
+    "Nature": {
+        "Perroquet": "resources/Perroquet.txt"
+    },
+    "Autre": {
+        "Arc-en-ciel": "resources/Arc-en-ciel.txt",
+        "Dessin 1": "resources/A.txt"
+    }
+}

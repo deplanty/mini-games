@@ -1,0 +1,8 @@
+{
+    ".": {
+        "font": ["Segoe UI", 10]
+    },
+    "Coords.TLabel": {
+        "font": ["Segoe UI", 8, "italic"]
+    }
+}

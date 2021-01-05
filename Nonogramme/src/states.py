@@ -1,0 +1,2 @@
+HIDDEN = 0
+REVEALED = 1
